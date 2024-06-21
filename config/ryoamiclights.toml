@@ -1,0 +1,185 @@
+
+[light_sources]
+	entities = true
+	self = true
+	block_entities = true
+	water_sensitive_check = true
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				player = true
+				tropical_fish = true
+				creeper = true
+				glow_squid = true
+				item = true
+				chicken = true
+				squid = true
+				bat = true
+				spider = true
+				item_frame = true
+				zombie = true
+				skeleton = true
+				zombie_villager = true
+				drowned = true
+				enderman = true
+				pufferfish = true
+				witch = true
+				dolphin = true
+				cod = true
+				pig = true
+				arrow = true
+				potion = true
+				sheep = true
+				experience_orb = true
+				bee = true
+				boat = true
+				chest_minecart = true
+				axolotl = true
+				slime = true
+				villager = true
+				cow = true
+				iron_golem = true
+				cat = true
+				tnt_minecart = true
+				wandering_trader = true
+				trader_llama = true
+				horse = true
+				llama_spit = true
+				fishing_bobber = true
+				turtle = true
+				salmon = true
+				lightning_bolt = true
+				egg = true
+				armor_stand = true
+				zombified_piglin = true
+				wolf = true
+				phantom = true
+				pillager = true
+				vindicator = true
+				fox = true
+				cave_spider = true
+				wither_skeleton = true
+				strider = true
+				blaze = true
+				hoglin = true
+				piglin_brute = true
+				piglin = true
+
+			[light_sources.settings.entities.alexsmobs]
+				gazelle = true
+				cockroach = true
+				centipede_head = true
+				centipede_body = true
+				centipede_tail = true
+				lobster = true
+				flying_fish = true
+				murmur = true
+				murmur_head = true
+				emu = true
+				seal = true
+				fly = true
+				crow = true
+				cachalot_whale = true
+				cachalot_echo = true
+				seagull = true
+				blobfish = true
+				frilled_shark = true
+				giant_squid = true
+				tasmanian_devil = true
+				underminer = true
+				sugar_glider = true
+				skunk = true
+				terrapin = true
+				grizzly_bear = true
+				flutter = true
+				blue_jay = true
+				catfish = true
+				raccoon = true
+				bison = true
+				straddler = true
+				crimson_mosquito = true
+				stradpole = true
+
+			[light_sources.settings.entities.quark]
+				toretoise = true
+				stoneling = true
+				forgotten = true
+
+			[light_sources.settings.entities.cataclysm]
+				deepling = true
+				deepling_angler = true
+				lionfish = true
+				deepling_brute = true
+
+			[light_sources.settings.entities.friendsandfoes]
+				rascal = true
+				glare = true
+				copper_golem = true
+
+			[light_sources.settings.entities.mowziesmobs]
+				grottol = true
+				lantern = true
+				ferrous_wroughtnaut = true
+				falling_block = true
+				camera_shake = true
+				umvuthana_follower_raptor = true
+				umvuthana_raptor = true
+
+			[light_sources.settings.entities.twigs]
+				pebble = true
+
+			[light_sources.settings.entities.guardvillagers]
+				guard = true
+
+			[light_sources.settings.entities.goblintraders]
+				goblin_trader = true
+				vein_goblin_trader = true
+
+			[light_sources.settings.entities.corpse]
+				corpse = true
+
+			[light_sources.settings.entities.twilightforest]
+				kobold = true
+				tiny_bird = true
+				deer = true
+				dwarf_rabbit = true
+				raven = true
+				boar = true
+				squirrel = true
+				bighorn_sheep = true
+				swarm_spider = true
+				redcap = true
+				charm_effect = true
+
+			[light_sources.settings.entities.ars_nouveau]
+				spell_proj = true
+				follow_proj = true
+				summon_horse = true
+				enchanted_falling_block = true
+				flying_item = true
+
+			[light_sources.settings.entities.iceandfire]
+				troll = true
+				cockatrice_egg = true
+				cockatrice = true
+
+			[light_sources.settings.entities.botania]
+				mana_burst = true
+
+			[light_sources.settings.entities.aether]
+				golden_swet = true
+				zephyr = true
+				aerwhale = true
+				cockatrice = true
+				whirlwind = true
+				blue_swet = true
+				aerbunny = true
+				moa = true
+				phyg = true
+				sheepuff = true
+				evil_whirlwind = true
+				golden_parachute = true
+
